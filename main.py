@@ -1,3 +1,5 @@
+# World_Cup Application
+# Made by Kasra Tookallo in 2025
 # Senior Python engineer solution: Group B ranking calculator
 # Input is received directly from the applicant (user) via stdin
 
